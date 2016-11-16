@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+
+header{
+	background: url("../img/grupal.jpg");
+	background-size: cover;
+	height: 800px;
+}
+
+button{
+	position: relative;
+	top:50px;
+	right: -100px;
+	background: #FFBF00;
+	padding: 0;
+	border: 0;
+	width: 80px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.logo{
+	position: relative;
+	top: 50px;
+	width: 100%;
+}
+
+.menu li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu a{
+	text-decoration: none;
+	color: black;
+	position: relative;
+	top: 40px;
+	right: 10px;
+	padding: 20px;
+}
+
+.pequeñas{
+	width: 100%;
+	text-decoration: none;
+	padding: 3px;
+}
+
+
